@@ -6,13 +6,6 @@ Este projeto contém um site SPA com conteúdo detalhado e tom entusiasta sobre:
 - Tunagem Brasileira (cultura, modelos, dicas)
 - Peças & Funcionamento (motor, turbo, supercharger, intercooler, ECU, escapamento)
 
-## Como rodar localmente
-Recomenda-se executar em um servidor local por causa de módulos ES:
-- Com Python:
-  python -m http.server
-  e abra http://localhost:8000
-- Ou use Live Server no VS Code.
-
 ## Estrutura
 - index.html
 - css/style.css
