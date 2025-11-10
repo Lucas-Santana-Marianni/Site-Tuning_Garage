@@ -1,4 +1,4 @@
-# Tuning Garage v3 — Conteúdo completo (tom entusiasta)
+# Tuning Garage — Conteúdo completo (tom entusiasta)
 
 Este projeto contém um site SPA com conteúdo detalhado e tom entusiasta sobre:
 - JDM (história, modelos icônicos, práticas de tuning)
